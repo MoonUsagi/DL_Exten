@@ -10,3 +10,15 @@
 |a4.ChangeLoss|
 |a5.AutoLabeling|
 |a6.DataAugment|
+  
+  
+**深度學習APP使用方式**
+|------|
+|b1.DeepNetworkDesigner|
+|b2.Experimnet_Manager|
+
+  
+**計算深度學習**
+|------|
+|c1.Neural_ODE|
+|c2.Partia_Differential_Equation|
