@@ -20,9 +20,7 @@
 |------|
 |c1.Neural_ODE|
 |c2.Partia_Differential_Equation|
-　　
 ------
-　　
 **各種深度學習模型**
 |------|
 |d1.Multilabel_Classification|
@@ -42,9 +40,7 @@
 |d15.CyclicalLearning|
 |d16.Adversarial|
 |d17.Deep_ISP|
-　　
 ------
-　　
 **其他領域的深度學習架構**
 |------|
 |e1.Verification|
