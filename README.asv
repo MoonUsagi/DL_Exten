@@ -1,6 +1,7 @@
 # DL_Exten
  Deep Learning Exten
-此專案中會介紹在之前專案中沒有介紹到的深度學習內容，並且分類為五個區域。
+此專案中會介紹在之前專案中沒有介紹到的深度學習內容，並且分類為五個區域。  
+此區域目前完成約97%剩餘以下項目尚未完成：e4text，與2023b更新部分。
 
 **客製化深度學習架構**
 |------|
@@ -10,23 +11,17 @@
 |a4.ChangeLoss|
 |a5.AutoLabeling|
 |a6.DataAugment|
-  
 ------
-  
 **深度學習APP使用方式**
 |------|
 |b1.DeepNetworkDesigner|
 |b2.Experimnet_Manager|
-　　
 ------
-　　
 **計算深度學習**
 |------|
 |c1.Neural_ODE|
 |c2.Partia_Differential_Equation|
-　　
 ------
-　　
 **各種深度學習模型**
 |------|
 |d1.Multilabel_Classification|
@@ -46,6 +41,13 @@
 |d15.CyclicalLearning|
 |d16.Adversarial|
 |d17.Deep_ISP|
-　　
+|d18.OtherModel|
+|d19.VIT(Vision Transformer)|
 ------
-　　
+**其他領域的深度學習架構**
+|------|
+|e1.Verification|
+|e2.Signal|
+|e3.Audio|
+|e4.Text|
+|e5.Lidar|
