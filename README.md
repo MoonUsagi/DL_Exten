@@ -60,3 +60,4 @@ Currently, this area is about 97% complete, with the following items remaining u
 |e3.Audio|
 |e4.Text|
 |e5.Lidar|
+|e6.Finance|
