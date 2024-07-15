@@ -15,9 +15,6 @@ Update to 2024a
 In this project, we will introduce deep learning topics that were not covered in previous projects and categorize them into five areas.
 Currently.
 
-Currently, some parts have been updated to 2024a, mainly focusing on the E series (with additions of Radar and Wireless). Additionally, content for A7 and A8 has been added.
-
-Due to significant updates in version 2024a, the DL architecture will be changed to the dlnetwork format, leading to major structural changes. Furthermore, some previous functionalities will be updated gradually.
 
 **客製化深度學習架構**
 |------|
