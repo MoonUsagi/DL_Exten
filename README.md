@@ -5,11 +5,10 @@ Bulit on 2023/09 by Fred Liu
 版本:MATALB: minimum vervion 2023b.
 
 此專案中會介紹在之前專案中沒有介紹到的深度學習內容，並且分類為五個區域。  
-此區域目前完成約97%剩餘以下項目尚未完成：e4text，與2023b更新部分。
+木
 
 In this project, we will introduce deep learning topics that were not covered in previous projects and categorize them into five areas.
-Currently, this area is about 97% complete, with the following items remaining unfinished: "e4text" and the 2023b updates.
-
+Currently.
 
 
 **客製化深度學習架構**
@@ -20,6 +19,8 @@ Currently, this area is about 97% complete, with the following items remaining u
 |a4.ChangeLoss|
 |a5.AutoLabeling|
 |a6.DataAugment|
+|a7.Accelerated_DL_Function|
+|a8.Retrain|
 ------
 **深度學習APP使用方式**
 |------|
@@ -61,3 +62,5 @@ Currently, this area is about 97% complete, with the following items remaining u
 |e4.Text|
 |e5.Lidar|
 |e6.Finance|
+|e7.Radar|
+|e6.Wireless|
