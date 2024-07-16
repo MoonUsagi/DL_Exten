@@ -7,7 +7,9 @@ Update to 2024a
 
 此專案中會介紹在之前專案中沒有介紹到的深度學習內容，並且分類為五個區域。  
 
-目前部分更新到2024a，主要是e系列為主(新增Radar與Wireless)，另外也新增a7與a8的內容
+目前部分更新到2024a，主要是e系列為主(新增Radar,Wireless與Verify)，另外也新增a7與a8的內容
+以及部份的內容也有添加上23b與24a的資訊。
+
 由於在2024a中版本有較大更新，會將DL的架構都改為dlnetowrk的格式，因此整個架構也會有大改變，
 也陸續將以往的一些功能都進行更新。
 
@@ -71,4 +73,11 @@ Due to significant updates in version 2024a, the DL architecture will be changed
 |e5.Lidar|
 |e6.Finance|
 |e7.Radar|
-|e6.Wireless|
+|e6.Finance|
+|e7.Radar|
+|e8.Wireless|
+|e9.Verify|
+------
+**深度學習模型整合**
+|------|
+|h1.Integration|
