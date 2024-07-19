@@ -13,6 +13,8 @@ Update to 2024a
 由於在2024a中版本有較大更新，會將DL的架構都改為dlnetowrk的格式，因此整個架構也會有大改變，
 也陸續將以往的一些功能都進行更新。
 
+詳細內容介紹可以參考以下網址：
+https://medium.com/@FredLiu_/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E6%93%B4%E5%85%85-dl-exten-70f7f559a443
 
 In this project, we will introduce deep learning topics that were not covered in previous projects and categorize them into five areas.
 Currently.
@@ -36,6 +38,7 @@ Due to significant updates in version 2024a, the DL architecture will be changed
 |------|
 |b1.DeepNetworkDesigner|
 |b2.Experimnet_Manager|
+|b3.DeepNetworkQuantizer|
 ------
 **計算深度學習**
 |------|
@@ -77,6 +80,8 @@ Due to significant updates in version 2024a, the DL architecture will be changed
 |e7.Radar|
 |e8.Wireless|
 |e9.Verify|
+|e10.PHM|
+
 ------
 **深度學習模型整合**
 |------|
